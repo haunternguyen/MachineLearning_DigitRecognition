@@ -1,0 +1,2 @@
+-	Chay dung lenh: python NhanDangSoVietTay.py
+ - Cai dat thu vien neu thieu. Vd: Tim Anaconda Prompt go: pip install numpy
